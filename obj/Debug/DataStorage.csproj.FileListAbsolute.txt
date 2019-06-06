@@ -1,0 +1,6 @@
+F:\Metanit_C#\StudFirst\DataStorage\bin\Debug\DataStorage.exe.config
+F:\Metanit_C#\StudFirst\DataStorage\bin\Debug\DataStorage.exe
+F:\Metanit_C#\StudFirst\DataStorage\bin\Debug\DataStorage.pdb
+F:\Metanit_C#\StudFirst\DataStorage\obj\Debug\DataStorage.csproj.CoreCompileInputs.cache
+F:\Metanit_C#\StudFirst\DataStorage\obj\Debug\DataStorage.exe
+F:\Metanit_C#\StudFirst\DataStorage\obj\Debug\DataStorage.pdb
